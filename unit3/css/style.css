@@ -1,0 +1,36 @@
+body { 
+	background-color: rgba(255,212,96);
+	}
+
+h1, p {
+		color: green;
+}
+
+
+h1 {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h1 { 
+	text-decoration: underline;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h3 { 
+font-style: Arial, italic;
+}
+
+h3 { 
+	font-weight: normal;
+}
+
+body { 
+	text-align: center;
+}
