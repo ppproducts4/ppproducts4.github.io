@@ -1,46 +1,47 @@
-@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+@import url (https://fonts.googleapis.com/css?family=Mystery+Quest);
 
 
 
 body { 
-	background-color: #FFED74;
+	background-color: green;
+	display: block;
+	margin: 8px;
 	}
-header {
-	background-color: #FFED74;
+
+
+nav {
+	display: block;
+	background: #FFFF99;
 	border: 1px black solid;
 	padding: 20px;
+	text-decoration: none;
 }
 
-#nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#aside {
+aside {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#article {
+article {
 	background-color: #E89C6C;
-	border: 1px black solid;
+	border: 3px black solid;
 	padding: 20px;
 }
-#footer {
+footer {
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#div section { 
+div section { 
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
 h1, p {
 		color: black;
+		Text-align: center;
 }
 
 
@@ -58,6 +59,7 @@ h1 {
 
 h1 {
 	text-transform: uppercase;
+	color: #800000;
 }
 
 
@@ -71,4 +73,7 @@ h3 {
 
 body { 
 	text-align: center;
+}
+
+ul { text-align: center;
 }
