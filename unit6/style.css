@@ -1,0 +1,109 @@
+@import url (https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+
+
+body { 
+	background-color: green;
+	display: block;
+	margin: 8px;
+	}
+
+
+nav {
+	display: block;
+	background: #FFFF99;
+	border: 1px black solid;
+	padding: 20px;
+	text-decoration: none;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 3px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div section { 
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+h1, p {
+		color: black;
+		Text-align: center;
+}
+
+
+h1 {font-family: 'Open Sans', sans-serif;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h1 { 
+	text-decoration: underline;
+}
+
+h1 {
+	text-transform: uppercase;
+	color: #800000;
+}
+
+
+h3 { 
+font-style: Arial, italic;
+}
+
+h3 { 
+	font-weight: normal;
+}
+
+body { 
+	text-align: center;
+}
+
+ul { text-align: center;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
