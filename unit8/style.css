@@ -12,14 +12,14 @@ body {
 nav {
 	display: block;
 	background: #ffffff;
-	border: 1px black solid;
+	border: 2px black solid;
 	padding: 1em;
 	text-decoration: none;
 }
 
 aside {
 	background-color: #808080;
-	border: 1px black solid;
+	border: 2px black solid;
 	padding: 1em;
 }
 
@@ -30,13 +30,13 @@ article {
 }
 footer {
 	background-color: #ffffff;
-	border: 1px black solid;
+	border: 2px black solid;
 	padding: 20px;
 }
 
 div section { 
     background-color: #808080;
-    border: 1px black solid;
+    border: 2px black solid;
     padding: 20px;
 }
 h1, p {
@@ -80,13 +80,13 @@ ul { text-align: center;
 
 #two_column {
     background-color: #green;
-    border: 1px black solid;
+    border: 2px black solid;
     padding: 20px;
 }
 
 #left {
     background-color: violet;
-    border: 1px black solid;
+    border: 2px black solid;
     padding: 20px;
     float: left;
     width: 40%;
@@ -94,7 +94,7 @@ ul { text-align: center;
 
 #right {
     background-color: violet;
-    border: 1px black solid;
+    border: 2px black solid;
     padding: 20px;
     float: right;
     width: 50%;
