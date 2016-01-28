@@ -102,7 +102,7 @@ ul { text-align: center;
 .clearfix:after {
     visibility: hidden;
     display: block;
-    font-size: 0;
+    font-size: ;
     content: " ";
     clear: both;
     height: 0;
