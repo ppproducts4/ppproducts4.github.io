@@ -19,25 +19,25 @@ nav {
 
 aside {
 	background-color: #808080;
-	border: 1px black solid;
-	padding: 1em;
+	border: 1% black solid;
+	padding: 2%;
 }
 
 article {
 	background-color: #800080;
-	border: 3px black solid;
-	padding: 10px;
+	border: 2% black solid;
+	padding: 2%;
 }
 footer {
 	background-color: #ffffff;
-	border: 1px black solid;
-	padding: 20px;
+	border: 1% black solid;
+	padding: 1%;
 }
 
 div section { 
     background-color: #808080;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1.5% black solid;
+    padding: 2.5%;
 }
 h1, p {
 		color: black;
@@ -60,7 +60,7 @@ h1 {
 h1 {
 	text-transform: uppercase;
 	color: #black;
-	padding-top: 7px;
+	padding-top: 3%;
 }
 
 
@@ -80,24 +80,25 @@ ul { text-align: center;
 }
 
 a: hover{
-	background-color:80080;
+	background-color:808080;
 }
 
 #left {
     background-color: violet;
-    border: 1px black solid;
+    border: .5% black solid;
     padding: 4.5%;
     width: 40%;
     float: left;
+    
    
 }
 
 #right {
     background-color: violet;
-    border: 1px black solid;
-    float: right;
+    border: .5% black solid;
     padding: 2%;
-    width:40%;
+    width: 40%;
+    float: right;
 }
 .clearfix:after {
     visibility: hidden;
