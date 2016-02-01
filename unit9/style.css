@@ -85,7 +85,7 @@ a: hover{
 
 #left {
     background-color: violet;
-    border: .5% black solid;
+    border: 5% black solid;
     padding: 4.5%;
     width: 40%;
     float: left;
@@ -95,7 +95,7 @@ a: hover{
 
 #right {
     background-color: violet;
-    border: .5% black solid;
+    border: 5% black solid;
     padding: 2%;
     width: 40%;
     float: right;
@@ -112,5 +112,15 @@ a: hover{
 	overflow: auto;
 }
 }
-@media only screen and (min-width: 320px) and (max-width: 1020px)
+@media only screen and (min-width: 320px) and (max-width: 768px)
+
+body {
+	float: none;
+	width: 100%;
 }
+ image {
+ 	float: none;
+ 	width: 100%;
+ }
+
+
