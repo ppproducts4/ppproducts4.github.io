@@ -119,8 +119,10 @@ ul { text-align: center;
 	overflow: auto;
 }
 }
-@media only screen and (max-width: 800px) 
+@media only screen and (max-width: 800px) {
 }
+
+
 nav {
 	float: none;
 }
@@ -132,12 +134,13 @@ body {
 	line-height: 1:8em;
 }
 img {
-	width: 230px;
+	width: 320px;
 
 }
 
 
 @media only screen and (max-width: 480px) {
+
 	h1, nav {
 		display: block;
 		text-align: center;
